@@ -1,0 +1,96 @@
+body{
+    margin-top: 0;
+}
+header{
+    background-color: #FFFBF0;
+    margin-top: 40px;
+    
+}
+.nav-item-color li{
+    margin-left: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.logo-img{
+    width: 290px;
+    height: 39px;
+}
+.penguin-text-color{
+    color:#FABE4C;
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+}
+.winter-text-color{
+    color:#363958;
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+}
+p {
+    
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E
+}
+.display-img img{
+   max-width: 100%;
+}
+.button-background{
+    background-color: #76C27E;
+    
+}
+h2{
+    font-size: 40px;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+}
+h4 , h5{
+    font-family: 'Roboto', sans-serif;
+    color:#363958;
+    font-weight: 700;
+}
+
+.jacket-card{
+    border-radius: 20px;
+}
+.jacket-card-footer{
+    border: 0;
+}
+
+
+
+
+
+.stay-touch{
+    margin: 0;
+}
+.social-link{
+    height: 20px;
+}
+.copyright{
+    background-color: #0B1D2D;
+}
+address{
+    font-family: 'Sofia', cursive;
+}
+
+.checkout-background{
+    background-color: #1E73BE;
+}
+.checkout-img img{
+    max-width: 100%;
+}
+.checkout-option{
+    color: white;
+}
+
+
+
+
+
+
+
+
+/* font-family: 'Roboto', sans-serif;
+
+font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
