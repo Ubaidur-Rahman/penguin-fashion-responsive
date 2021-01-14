@@ -13,7 +13,7 @@ header{
 }
 
 .logo-img{
-    width: 290px;
+    width: 210px;
     height: 39px;
 }
 .penguin-text-color{
@@ -36,7 +36,7 @@ p {
 }
 .button-background{
     background-color: #76C27E;
-    
+    font-family: 'Roboto', sans-serif;
 }
 h2{
     font-size: 40px;
@@ -52,11 +52,23 @@ h4 , h5{
 .jacket-card{
     border-radius: 20px;
 }
-.jacket-card-footer{
-    border: 0;
+.jacket-card img{
+    height: 220px;
+    width: 180px;
+    
+    
 }
 
 
+.jacket-card-footer{
+    border: 0;
+    background-color: white;
+}
+
+.find-contact-seller{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
 
 
 
